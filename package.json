@@ -4,8 +4,8 @@
     "description": "A android like toast for react-native support for ios and android",
     "main": "index.js",
     "author": {
-        "name": "cqingwang",
-        "email": "wangchangqing_2009@126.com"
+        "name": "haiboyang",
+        "email": "596090355@qq.com"
     },
     "license": "MIT",
     "keywords": [
@@ -18,12 +18,12 @@
         "remobile",
         "mobile"
     ],
-    "homepage": "https://github.com/cqingwang/react-native-toast",
+    "homepage": "https://github.com/ahnu118/react-native-toast",
     "bugs": {
-        "url": "https://github.com/cqingwang/react-native-toast/issues"
+        "url": "https://github.com/ahnu118/react-native-toast/issues"
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/cqingwang/react-native-toast.git"
+        "url": "git://github.com/ahnu118/react-native-toast.git"
     }
 }
