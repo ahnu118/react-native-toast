@@ -1,10 +1,10 @@
 {
-    "name": "@cqingwang/react-native-toast",
+    "name": "@ahnu118/react-native-toast",
     "version": "1.0.6",
     "description": "A android like toast for react-native support for ios and android",
     "main": "index.js",
     "author": {
-        "name": "haiboyang",
+        "name": "ahnu118",
         "email": "596090355@qq.com"
     },
     "license": "MIT",
